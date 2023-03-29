@@ -1,1 +1,1 @@
-web: gunicorn kavach.settings
+web: python manage.py runserver
