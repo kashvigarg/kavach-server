@@ -1,1 +1,1 @@
-web: gunicorn kavach.wsgi
+web: gunicorn kavach.settings
